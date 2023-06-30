@@ -25,7 +25,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 
 
 ```
-julien@ubuntu:~/factors$ cat tests/test00 
+mbang@ubuntu:~/factors$ cat tests/test00 
 4
 12
 34
@@ -40,7 +40,7 @@ julien@ubuntu:~/factors$ cat tests/test00
 9797973
 49
 239809320265259
-julien@ubuntu:~/factors$ time ./factors tests/test00
+mbang@ubuntu:~/factors$ time ./factors tests/test00
 4=2*2
 12=6*2
 34=17*2
@@ -59,7 +59,7 @@ julien@ubuntu:~/factors$ time ./factors tests/test00
 real    0m0.009s
 user    0m0.008s
 sys 0m0.001s
-julien@ubuntu:~/factors$ 
+mbang@ubuntu:~/factors$ 
 
 ```
 
