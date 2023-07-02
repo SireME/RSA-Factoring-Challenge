@@ -24,7 +24,10 @@ Factorize as many numbers as possible into a product of two smaller numbers.
     - we will only run your executable `factors`
 
 
+  
 ```
+run code: ```gcc solution.c -o factorss -lgmp```  
+
 mbang@ubuntu:~/factors$ cat tests/test00 
 4
 12
